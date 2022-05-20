@@ -8,7 +8,7 @@ body {
   flex-direction: column;
   background-repeat: no-repeat;
   background-size: cover;
-  border: 5px groove rgb(132, 33, 204);
+ 
   background-position: center center;
 }
 
@@ -223,7 +223,7 @@ header {
 #text-head {
   text-align: left;
   padding: 1%;
-  font-size: 3rem;
+  font-size: 2rem;
   font-family: 'Courier New', Courier, monospace;
   opacity: 95%;
 }
@@ -231,7 +231,7 @@ header {
 #text-body {
   text-align: left;
   padding: 1%;
-  font-size: 3rem;
+  font-size: 2rem;
   font-family: 'Courier New', Courier, monospace;
   opacity: 95%;
 }
